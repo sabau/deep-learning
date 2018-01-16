@@ -1,0 +1,1 @@
+pip install jupyter tornato six tensorflow html5lib numpy nbconvert nbformat qtconsole
