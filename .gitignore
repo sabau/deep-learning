@@ -13,4 +13,5 @@ face_generation/data/
 *.pkl 
 
 */.floyd*
-
+intro-to-tensorflow/notMNIST*.zip
+intro-to-tensorflow/notMNIST.pickle
